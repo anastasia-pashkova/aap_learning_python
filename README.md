@@ -1,1 +1,2 @@
-# aap_learning_python
+# Anastasia Pashkova
+Playing around with Python.
